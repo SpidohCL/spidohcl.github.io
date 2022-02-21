@@ -9,8 +9,8 @@ layout: default
 ### And a nested list:
 
 - MERN STACK DEV
-  - [Buscador de productos en react](https://github.com/SpidohCL/desafio-frontend)
-  - [API buscadora de productos palindromos](https://github.com/SpidohCL/desafio-backend)
+  - [Buscador de productos en react](./desafio-frontend/)
+  - [API buscadora de productos palindromos](./desafio-backend)
 
 
 [Home](./)

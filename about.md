@@ -2,6 +2,8 @@
 layout: default
 ---
 
+#### [Home](./) [Content](./page2.html) [About](./about.html)
+
 ## About me
 ![Branching](./assets/images/fetch.png)
 #### WHOAMI
@@ -15,5 +17,3 @@ layout: default
 *   Raspberry Services: `1`
 *   Terminal lvl: `Advanced`
     
-
-[Home](./)

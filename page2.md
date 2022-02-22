@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+####  [Home](./) [Content](./page2.html) [About](./about.html)
+
 
 ## Content
 
@@ -13,4 +15,3 @@ layout: default
   - [API buscadora de productos palindromos](/desafio-backend)
 
 
-[Home](./)

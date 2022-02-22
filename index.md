@@ -1,8 +1,10 @@
 ---
 layout: default
 ---
-#### [Content](./page2.html) [About](./about.html)
-# Under construction
+
+#### [Home](./) [Content](./page2.html) [About](./about.html)
+
+# Sitio en Construccion :)
 
 ![Branching](./assets/images/underConstruction.jpg)
 

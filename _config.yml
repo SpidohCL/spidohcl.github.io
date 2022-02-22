@@ -1,5 +1,5 @@
 title: SpidohCL
 description: Blog de Desarrollo
 show_downloads: false
-google_analytics: false
+google_analytics: true
 theme: jekyll-theme-hacker
